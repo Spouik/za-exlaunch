@@ -1,3 +1,8 @@
+# za-exlaunch
+A very experimental exlaunch mod to edit stuff in Pokémon Legends : Z-A.
+Right now it only disable autosaves, like Arch9SK7's cheats, but maybe I'll add other features.
+Below is the default exlaunch readme.
+
 # exlaunch
 A framework for injecting C/C++ code into Nintendo Switch applications/applet/sysmodules.
 
